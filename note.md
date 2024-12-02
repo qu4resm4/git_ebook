@@ -90,3 +90,77 @@ Além do nome e e-mail, outras configurações globais podem ser úteis para oti
   ```
 
 Agora que você configurou o Git corretamente, está pronto para começar a gerenciar seus projetos de forma eficiente e colaborativa!
+
+
+
+
+
+===========================
+
+
+
+### Sumário
+
+#### Capítulo 1: Introdução ao Git
+1. **O que é Git?**
+   - Definição e propósito.
+   - Comparação com outros sistemas de controle de versão.
+2. **Instalação do Git**
+   - Passo a passo para Windows, macOS e Linux.
+3. **Configuração Inicial**
+   - Configurando nome e e-mail do usuário.
+   - Configurações globais básicas.
+
+#### Capítulo 2: Conceitos Básicos
+4. **Repositórios**
+   - O que são repositórios locais e remotos.
+   - Criando um novo repositório.
+5. **Commits**
+   - Salvando mudanças.
+   - Boas práticas para mensagens de commit.
+6. **Branches**
+   - O que são branches.
+   - Criando e mudando de branch.
+   - Merge: combinando branches.
+
+#### Capítulo 3: Trabalhando com Git
+7. **Clonando Repositórios**
+   - Como clonar um repositório existente.
+8. **Staging e Commit**
+   - Adicionando arquivos ao staging.
+   - Commit das mudanças.
+9. **Visualizando o Histórico**
+   - Comando `git log`.
+   - Visualizando mudanças com `git diff`.
+
+#### Capítulo 4: Colaboração com Git
+10. **Trabalhando com Remotos**
+    - Adicionando e removendo repositórios remotos.
+    - Comandos `git fetch` e `git pull`.
+11. **Push e Pull Requests**
+    - Enviando mudanças com `git push`.
+    - O que são pull requests (PRs) e como usá-los.
+12. **Resolvendo Conflitos**
+    - O que são conflitos.
+    - Como resolver conflitos de merge.
+
+#### Capítulo 5: Boas Práticas e Ferramentas
+13. **Boas Práticas de Commit**
+    - Mensagens claras e concisas.
+    - Commits frequentes e pequenos.
+14. **Gitignore**
+    - O que é `.gitignore`.
+    - Criando e usando um arquivo `.gitignore`.
+15. **Branching Strategy**
+    - Git Flow e outras estratégias.
+    - Escolhendo a melhor estratégia para seu projeto.
+
+#### Capítulo 6: Recursos Avançados
+16. **Tags**
+    - Criando e usando tags.
+    - Diferença entre tags anotadas e leves.
+17. **Rebase**
+    - O que é rebase.
+    - Quando e como usar.
+18. **Cherry-pick**
+    - Selecionando commits específicos para aplicar em outras branches.
