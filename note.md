@@ -1,3 +1,21 @@
+
+ANOTAÇÕES DE IDEIAS RELACIONADAS
+Desenvolvimento de APIs RESTful: Guia prático com exemplos.
+***Git e Controle de Versão: Como usar Git para gerenciar seus projetos.
+
+---------------------------------------
+Boas Práticas de Programação: Código limpo, testes e documentação.
+
+Automação com Python: Scripts para automatizar tarefas do dia a dia.
+
+DevOps para Iniciantes: Introdução ao DevOps e ferramentas essenciais.
+
+Introdução à Ciência de Dados: Conceitos básicos e ferramentas.
+
+============
+
+
+
 Faça um texto para ebook, utilizando como base os tópicos abaixo entre parêntese.
 
 ""
